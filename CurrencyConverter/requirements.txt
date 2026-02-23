@@ -1,0 +1,51 @@
+# ──────────────────────────────────────────────────────
+#  requirements.txt — Currency Converter
+#  Python 3.x project
+# ──────────────────────────────────────────────────────
+#
+#  This project uses ONLY Python built-in libraries.
+#  No third-party packages need to be installed via pip.
+#
+#  Built-in modules used:
+#    tkinter   → GUI window, widgets, dropdowns, buttons
+#    tkinter.ttk → Styled combobox (dropdown)
+#
+# ──────────────────────────────────────────────────────
+#  PYTHON VERSION REQUIREMENT
+# ──────────────────────────────────────────────────────
+#
+#  Python >= 3.6  (f-strings required)
+#  Recommended  : Python 3.8 or higher
+#
+# ──────────────────────────────────────────────────────
+#  HOW TO CHECK YOUR PYTHON VERSION
+# ──────────────────────────────────────────────────────
+#
+#  Open terminal and run:
+#      python --version
+#   or
+#      python3 --version
+#
+# ──────────────────────────────────────────────────────
+#  HOW TO CHECK tkinter IS AVAILABLE
+# ──────────────────────────────────────────────────────
+#
+#  Run this in terminal:
+#      python -m tkinter
+#
+#  A small test window should pop up.
+#  If you get an error, install tkinter:
+#
+#  Windows  : Reinstall Python from python.org
+#             (check "tcl/tk and IDLE" during install)
+#
+#  macOS    : brew install python-tk
+#          or: reinstall Python from python.org
+#
+#  Linux    : sudo apt install python3-tk        (Debian/Ubuntu)
+#          or: sudo dnf install python3-tkinter  (Fedora)
+#          or: sudo pacman -S tk                 (Arch)
+#
+# ──────────────────────────────────────────────────────
+#  NO pip install NEEDED — project is ready to run as-is
+# ──────────────────────────────────────────────────────
