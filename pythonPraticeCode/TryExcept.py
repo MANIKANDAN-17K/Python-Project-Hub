@@ -5,8 +5,8 @@ try:
 	print(n3)
 except ZeroDivisionError:
 	print("b should not be zero")
-except ValueError:
-	print(" Enter number values ")
+except ValueError as error:
+	print(error)
 finally:
 	print("program executed successfully")
 
