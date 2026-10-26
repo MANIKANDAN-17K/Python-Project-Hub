@@ -1,0 +1,4 @@
+hi this is mani, 
+now i'm learning python
+later i learn different tech stack
+bye
